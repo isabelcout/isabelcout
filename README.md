@@ -1,7 +1,8 @@
 
 ## Hi, I'm Isabel Coutinho!👋
 
-Uma software Developer apaixonada por tudo que envolve tecnologia!!
+Uma Software Developer apaixonada por tudo que envolve tecnologia!!
+
 
 <div align="center">
   <a href="https://github.com/isabelcout">
