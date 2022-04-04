@@ -18,7 +18,7 @@ Uma Software Developer apaixonada por tudo que envolve tecnologia!!
   <img align="center" alt="Isa-GitHub" height="30" width="85" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="Isa-Java" height="30" width="75" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Isa-CSS" height="30" width="75" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="right" alt="Isa" src="https://media.discordapp.net/attachments/946176195953840218/946183996797231224/picasion.com_377d9b22e89a38a61676a5130656e99a.gif">
+  <img align="right" width="150" alt="Isa" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 
 </div>
   
