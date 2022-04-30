@@ -1,5 +1,5 @@
 
-## Hi, I'm Isabel Coutinho!👋
+## </h2> Hi, I'm Isabel Coutinho<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 Uma Software Developer apaixonada por tudo que envolve tecnologia!!
 
