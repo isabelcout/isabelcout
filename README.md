@@ -6,9 +6,11 @@ Uma Junior Software Developer apaixonada por tudo que envolve tecnologia!!
 
 <div align="center">
   <a href="https://github.com/isabelcout">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=isabelcout&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelcout&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=isabelcout&show_icons=true&theme=radical"/>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelcout&layout=compact&langs_count=7&theme=radical"/>
 </div>
+<hr>
+<h3 align="center"> <strong>TECNOLOGIAS & TOOLS</strong> </h3>
   <div  align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Js" height="30" width="85" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -19,13 +21,14 @@ Uma Junior Software Developer apaixonada por tudo que envolve tecnologia!!
   <img align="center" alt="Isa-GitHub" height="30" width="85" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="Isa-VS" height="30" width="105" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img align="center" alt="Isa-ECLIPSE" height="30" width="75" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-  <img align="right" width="140" alt="Isa" src="https://discord.com/channels/@me/946176195953840218/995478941827616788">
+  <hr>
 
 </div>
   
 ###
  
 <div> 
+<h3 align="center"> <strong>CONTACT</strong> </h3>
   <a href="https://instagram.com/isabelcout_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:isabelcoutinhors@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/isabelcoutinhodonascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
