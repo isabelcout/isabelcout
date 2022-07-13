@@ -25,9 +25,7 @@ Uma Software Developer apaixonada por tudo que envolve tecnologia!!
     <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
   </a>
 </p>
-  
   <hr>
-
 </div>
   
 ###
