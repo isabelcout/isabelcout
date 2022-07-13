@@ -1,7 +1,7 @@
 
 <h2> Hello, I'm Isabel Coutinho <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
-Uma Junior Software Developer apaixonada por tudo que envolve tecnologia!!
+Uma Software Developer apaixonada por tudo que envolve tecnologia!!
 
 
 <div align="center">
