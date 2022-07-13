@@ -22,7 +22,7 @@ Uma Junior Software Developer apaixonada por tudo que envolve tecnologia!!
 <h3 align="center"> <strong>TOOLS</strong> </h3>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,androidstudio,arduino,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
   </a>
 </p>
   
