@@ -7,7 +7,7 @@ Uma Software Developer apaixonada por tudo que envolve tecnologia!!
 <div align="center">
   <a href="https://github.com/isabelcout">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=isabelcout&show_icons=true&theme=vision-friendly-dark"/>
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelcout&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelcout&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <hr>
 <h3 align="center"> <strong>SKILLS</strong> </h3>
