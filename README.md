@@ -39,5 +39,6 @@ Uma Software Developer apaixonada por tudo que envolve tecnologia!!
 ###
  
 ![Snake animation](https://github.com/isabelcout/isabelcout/blob/output/github-contribution-grid-snake.svg)
+<a href="http://www.github.com/medzino2000"><img src="https://activity-graph.herokuapp.com/graph?username=isabelcout&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 ![isabelcout](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 </div>
