@@ -1,7 +1,15 @@
 
 <h2> Hello, I'm Isabel Coutinho <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
-Uma Software Developer apaixonada por tudo que envolve tecnologia!!
+<div style="display: inline_block"><br>
+  
+📚 - Estudante de Ciência da Computação na Uniamérica <br>
+ </div>
+ <div>
+  <a href = "mailto:isabelcoutinhors@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/isabelcoutinhodonascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5591983779499" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ <hr>
 
 
 <div align="center">
@@ -27,14 +35,6 @@ Uma Software Developer apaixonada por tudo que envolve tecnologia!!
 </p>
   <hr>
 </div>
-  
-###
- 
-<div> 
-<h3 align="center"> <strong>CONTACT</strong> </h3>
-  <a href = "mailto:isabelcoutinhors@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/isabelcoutinhodonascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5591983779499" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
 ###
  
