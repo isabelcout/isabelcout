@@ -1,10 +1,7 @@
 
 <h2> Olá, me chamo Isabel Coutinho <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
-
-<div style="display: inline_block"><br>
-  
-📚 - Estudante de Ciência da Computação na Uniamérica <br>
- </div>
+<hr>
+📚 - Estudante de Ciência da Computação na Uniamérica
  <div>
   <a href = "mailto:isabelcoutinhors@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/isabelcoutinhodonascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
