@@ -1,7 +1,8 @@
 
 <h2> Olá, me chamo Isabel Coutinho <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 <div style="display: inline_block"><br>
-📚 - Estudante de Ciência da Computação na Uniamérica <br>
+📚 - Estudante de Ciência da Computação na Uniamérica <br> 
+📚 - Técnica em Informática <br>
  </div>
  
  <div style="display: inline_block"><br>
