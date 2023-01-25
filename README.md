@@ -2,7 +2,9 @@
 <h2> Olá, me chamo Isabel Coutinho <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 <div style="display: inline_block"><br>
 📚 - Estudante de Ciência da Computação na Uniamérica <br> 
-📚 - Técnica em Informática <br>
+📚 - Técnica em Informática <br><br>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=isabelcout&label=Profile%20views&color=0e75b6&style=flat" alt="isabelcout" /> </p>
+
  </div>
  
  <div style="display: inline_block"><br>
