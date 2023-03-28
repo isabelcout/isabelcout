@@ -17,8 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/isabelcout">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=isabelcout&show_icons=true&theme=outrun"/>
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelcout&layout=compact&icon=true&theme=outrun"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabelcout&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelcout&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <hr>
 <h3 align="center"> <strong>SKILLS</strong> </h3>
